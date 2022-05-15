@@ -1,0 +1,5 @@
+C:\Users\kauea\Desktop\mandrakespcfps.exe
+C:\Users\kauea\Desktop\mandrakespcfps.dll
+C:\Users\kauea\Desktop\mandrakespcfps.deps.json
+C:\Users\kauea\Desktop\mandrakespcfps.runtimeconfig.json
+C:\Users\kauea\Desktop\mandrakespcfps.pdb

@@ -1,0 +1,39 @@
+lembrando que otimização de windows não faz milagre - ela ajuda não só no fps dos jogos mas tbm em sua fluidez, 
+estabilidade, lisura do jogo (conhecido tbm como frametime).
+as vezes o não ganho de performance após a otimização pode estar ligado a configuração de hardware do seu computador
+é recomendado formatar o computador antes de fazer a otimização
+
+windows+r: %temp%, recent, prefetch - apagar tudo dentro destas pastas (o que não der é só clicar em ignorar)
+
+apagar softwares de terceiros de limpeza de computador
+
+limpeza de disco
+
+desabilitar o windows defender - por conta e risco
+
+modo game windows ativado
+
+inicializar apenas os programas e seviços necessarios
+
+desfragmentar disco
+
+modo desempenho  sistema
+
+modo energia alto desempenho
+
+atualizar drivers nvidia amd
+
+painel nvidia 3d mudar para preferencia com enfase em desempenho
+
+painel nvidia surround physx mudar para placa de video
+
+desabilitar assistente de foco - desabilitar regras automaticas
+
+notificações windows
+
+configurações windows privacidade - tudo off - controle por vóz ate chamadas telefonicas
+
+amd software adrenaline (mais atual) - configurações globais - placa gráfica - colocar as opções mais baixas possiveis
+aba tela - desativar free sync
+
+
